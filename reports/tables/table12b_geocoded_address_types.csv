@@ -1,0 +1,9 @@
+period,coord_source,address_type,points,share_of_geocoded_in_period_%,validated_pairs_theft_510,validated_pairs_all_classes
+geocoded-location years,census,intersection,24430,18.1,0,0
+geocoded-location years,census,numbered,105708,78.5,4,45
+geocoded-location years,nominatim,intersection,1811,1.3,0,1
+geocoded-location years,nominatim,numbered,2690,2.0,0,1
+stored-location years,census,intersection,1185,9.1,0,0
+stored-location years,census,numbered,11344,86.9,3752,26862
+stored-location years,nominatim,intersection,269,2.1,0,0
+stored-location years,nominatim,numbered,252,1.9,57,353

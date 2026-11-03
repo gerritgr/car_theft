@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data: crime records, processed outputs, downloaded external files
+data/**/*.csv
+data/**/*.parquet
+data/**/*.zip
+data/**/*.gpkg
+data/**/*.geojson
+data/**/*.pkl
+data/rel_tract_*.txt
+
+# Local archive
+old/
+
+# OS
+.DS_Store
+Thumbs.db

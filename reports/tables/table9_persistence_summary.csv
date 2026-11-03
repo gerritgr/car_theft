@@ -1,0 +1,7 @@
+threshold_years,n_tracts_fdr,pct_fdr,n_tracts_uncorrected,pct_uncorrected
+1,56,5.2,187,17.3
+5,20,1.8,134,12.4
+10,16,1.5,87,8.0
+15,11,1.0,53,4.9
+20,9,0.8,37,3.4
+23,6,0.6,20,1.8

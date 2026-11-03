@@ -1,0 +1,10 @@
+gi_tier,n_tracts
+HH p<=0.001,4
+HH p<=0.01,12
+HH p<=0.05,70
+not significant,904
+LL p<=0.05,40
+LL p<=0.01,34
+LL p<=0.001,46
+HH with FDR q<=0.05 (hotspot),7
+LL with FDR q<=0.05 (coldspot),62

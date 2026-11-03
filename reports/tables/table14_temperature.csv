@@ -1,0 +1,3 @@
+test,n,spearman_rho,p_value
+seasonal cycle (calendar-month means),12,-0.06993006993006995,0.8290236405313092
+anomalies (STL residual vs temperature anomaly),274,-0.02563073085924432,0.6727375261203774

@@ -1,0 +1,3 @@
+scenario,hotspots_main,hotspots_scenario,both,jaccard,cohen_kappa,spearman_z
+stored-coordinate years only,7,7,7,1.0,1.0,0.9909074266826478
+without Nominatim points,7,7,7,1.0,1.0,0.9997256274878843

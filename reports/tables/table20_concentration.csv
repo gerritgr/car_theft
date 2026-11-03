@@ -1,0 +1,19 @@
+unit,top_pct_of_units,share_of_thefts_pct
+250 m grid cells,1,9.040219777602216
+250 m grid cells,5,29.72952586634695
+250 m grid cells,10,47.61503983866037
+250 m grid cells,25,79.1316482129175
+250 m grid cells,50,97.4219007427816
+250 m grid cells,units holding 50% of thefts (%),10.804829941790542
+250 m grid cells with >= 1 theft,1,6.931768106045869
+250 m grid cells with >= 1 theft,5,22.970253006260645
+250 m grid cells with >= 1 theft,10,37.58153328225304
+250 m grid cells with >= 1 theft,25,66.36858800036524
+250 m grid cells with >= 1 theft,50,89.71916424167597
+250 m grid cells with >= 1 theft,units holding 50% of thefts (%),15.459801762114536
+Census tracts,1,4.821957576740378
+Census tracts,5,14.395668286972032
+Census tracts,10,23.684012767320723
+Census tracts,25,44.98305205412268
+Census tracts,50,71.11512342138883
+Census tracts,units holding 50% of thefts (%),29.27927927927928

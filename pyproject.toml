@@ -1,0 +1,44 @@
+[project]
+name = "car-theft"
+version = "0.1.0"
+description = "Spatio-temporal exploratory data analysis of vehicle theft incidents in Los Angeles (2000-2022), based on LAPD crime report data."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26.0",
+    "pandas>=2.2.0",
+    "matplotlib>=3.7.0",
+    "geopandas>=0.14.0",
+    "contextily>=1.6.0",
+    "libpysal>=4.9.0",
+    "esda>=2.5.0",
+    "mapclassify>=2.6.0",
+    "scipy>=1.12.0",
+    "statsmodels>=0.14.0",
+    "ruptures>=1.1.9",
+    "scikit-learn>=1.4.0",
+    "tqdm>=4.66.0",
+    "numba>=0.59.0",
+    "geopy>=2.4.0",
+    "osmnx>=1.9.0",
+    "requests>=2.31.0",
+    "pyproj>=3.6.0",
+    "jupyterlab>=4.2.0",
+]
+
+[project.scripts]
+car-theft = "car_theft.main:run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/car_theft"]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[dependency-groups]
+dev = []

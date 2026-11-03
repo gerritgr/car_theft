@@ -1,0 +1,18 @@
+Category,Count,Note
+Raw rows (all crime classes),5000044,
+"Unique (report, crime class) records, 2000-2022",4490927,
+  Vehicle theft (510),521098,11.6% of records
+  Vehicle recovered (521),2447625,54.5% of records
+  Traffic report vehicle (997),770333,17.2% of records
+  Burglary from vehicle (330),364776,8.1% of records
+  Vandalism (740/745),228963,5.1% of records
+  Theft from vehicle (420/331),158132,3.5% of records
+"Vehicle theft reports analysed (510, one per DR)",521098,
+  recovered (a 521 record shares the DR),455317,87.4%
+  occurrence time unknown (placeholder / not recorded),30070,5.8%
+Coordinates: stored (LAPD),377984,72.5%
+Coordinates: Census geocoder,127808,24.5%
+Coordinates: Nominatim,4226,0.8%
+Coordinates: rejected (outside City of LA),2782,0.5%
+Coordinates: unresolved,8298,1.6%
+Total with coordinates inside the city,510018,97.9%
